@@ -15,7 +15,7 @@ public class InputOutput {
         System.out.println("3 - OS (Windows, MacOS, Linux)");
         System.out.println("4 - Screen Size (15, 17)");
         System.out.println("5 - Processor (2 GHz, 3 GHz)");
-        System.out.println("6 - Manufacturer (HP, Lenovo, Dell, Apple)");
+        System.out.println("6 - Manufacturer (HP, Lenovo, Dell, Apple, Acer)");
 
         System.out.print("Choose a criterion: ");
         int selectedCriterion = scanner.nextInt();
