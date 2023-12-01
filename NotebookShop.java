@@ -49,7 +49,7 @@ public class NotebookShop {
                         matches = matches && notebook.getManufacturer().equals(value) &&
                                 notebook.getManufacturer().compareTo((String) minValue) >= 0;
                         break;
-                    // Добавьте обработку для других критериев, если необходимо
+                   
                 }
             }
 
